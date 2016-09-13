@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2cSk9rZ' target='_blank'><img src='https://2.bp.blogspot.com/-SBRC1oGSClQ/V6iU1kLkphI/AAAAAAAAATg/u3noyDsTSUIE54k2ofHceuChG_HDRoIJgCPcB/s640/tienloi.png' width='500px'/><br/>13 Mua xe Vespa trả góp tiện lợi</a>. Hotline: 0936 41 32 39 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2cSk9rZ' target='_blank'><img src='https://2.bp.blogspot.com/-SBRC1oGSClQ/V6iU1kLkphI/AAAAAAAAATg/u3noyDsTSUIE54k2ofHceuChG_HDRoIJgCPcB/s640/tienloi.png' width='500px'/><br/> Mua xe Vespa trả góp tiện lợi</a>. Hotline: 0936 41 32 39 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
